@@ -8,13 +8,16 @@ relative_permalinks: true
 
 # Setup
 title:            Ariff Azraai
-tagline:          "Primitive Digital Native"
-description:      "Personal home page. Don't go gentle into that goodnite."
+tagline:          Primitive Digital Native
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
   name:           'Ariff Azraai'
   url:            http://azraai.me
+
+side:
+  title:          Scribbles
+  description:    "Personal home page, don't go gentle into that goodnite."
 
 paginate:         5
