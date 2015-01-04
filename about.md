@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="/photo.jpg" alt="Ariff Azraai">
+<img src="{{ site.baseurl }}assets/photo.jpeg" alt="Ariff Azraai">
 
 Born in Kuantan, raised up in Kemaman and become native of Subang Jaya since 2005 (Albeit, there is some back story). Currently, read Mechatronics in Universiti Teknologi Malaysia. Senior principal at [MentariWorks](http://mentariworks.com), director at [Imagineering](http://imagineering.my) and editor at [RENTAS & Coffeenion](http://rentas.institute).
 
