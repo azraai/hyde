@@ -13,4 +13,4 @@ Currently, technical lead for [JomSales](https://jomsales.com) and secretly buil
 
 Reach me at ariff_at_azraai_dot_me.
 
-_My resume is available [here](resume.pdf)._
+_My resume is available [here](/resume.pdf)._
