@@ -12,3 +12,5 @@ Born in Kuantan, raised up in Kemaman and become native of Subang Jaya since 200
 Currently, technical lead for [JomSales](https://jomsales.com) and secretly building some automation project at Imagineering.
 
 Reach me at ariff_at_azraai_dot_me.
+
+_My resume is available [here](resume.pdf)._
